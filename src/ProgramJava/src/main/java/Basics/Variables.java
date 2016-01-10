@@ -6,7 +6,8 @@ public class Variables
 {
     public void thevrbls()
     {
-        char one='a'; //any text
+        char one='a'; //any text one charecter 
+        String onestring = "Hello"; // Object 
         byte two= 10; //up to 128
         short three = 300; // up to 32,768
         int four =5000; // up to 2,147,483,648
