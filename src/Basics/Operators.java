@@ -1,4 +1,4 @@
-package Basics;
+package src.Basics;
 /** 
 =       Simple assignment operator
 +       Additive operator (also used

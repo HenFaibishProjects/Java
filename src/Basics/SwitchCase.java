@@ -1,4 +1,5 @@
-package Basics;
+package src.Basics;
+
 public class SwitchCase {
     public void SwitchDemo() {
  

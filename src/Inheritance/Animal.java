@@ -1,4 +1,4 @@
-package Inheritance;
+package src.Inheritance;
 
 	
 	// create the first (top hierarchy) object

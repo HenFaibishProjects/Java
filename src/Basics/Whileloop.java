@@ -1,4 +1,5 @@
-package Basics;
+package src.Basics;
+
 public class Whileloop {
     public void exeple(){
         int count = 1;

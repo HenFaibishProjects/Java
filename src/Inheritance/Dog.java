@@ -1,4 +1,4 @@
-package Inheritance;
+package src.Inheritance;
 
 public class Dog extends Animal {
     // should be protected in order to use them in inheritance

@@ -1,4 +1,4 @@
-package ObjectOriented;
+package src.ObjectOriented;
 
 //Object
 public class Author {

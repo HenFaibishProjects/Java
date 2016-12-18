@@ -1,5 +1,5 @@
+package src.Basics;
 
-package Basics;
 public class IfElse {
 
 	public void onlyif() {

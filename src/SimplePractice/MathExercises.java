@@ -1,4 +1,4 @@
-package SimplePractice;
+package src.SimplePractice;
 
 import java.util.Scanner;
 

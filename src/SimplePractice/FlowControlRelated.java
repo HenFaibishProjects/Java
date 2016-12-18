@@ -1,4 +1,4 @@
-package SimplePractice;
+package src.SimplePractice;
 
 
 public class FlowControlRelated 

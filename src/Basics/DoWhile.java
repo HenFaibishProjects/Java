@@ -1,4 +1,4 @@
-package Basics;
+package src.Basics;
 
 class DoWhileDemo {{
         int count = 1;

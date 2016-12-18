@@ -1,4 +1,4 @@
-package ObjectOriented;
+package src.ObjectOriented;
 
 public class Book {
 
